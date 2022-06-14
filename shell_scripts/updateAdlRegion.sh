@@ -2,12 +2,12 @@
 curl -u "username:apiKey" --digest \
  --header "Accept: application/json" \
  --header "Content-Type: application/json" \
- --request PATCH "https://cloud.mongodb.com/api/atlas/v1.0/groups/{GROUP-ID}/dataLakes/{NAME}?pretty=true"
+ --request PATCH "<api_url>"
  --data '{
    "cloudProviderConfig" : {
      "aws" : {
-       "roleId" : "1a234bcd5e67f89a12b345c6",
-       "testS3Bucket" : "user-metric-data-bucket"
+       "roleId" : "<role_id>",
+       "<adl-name>" : "user-metric-data-bucket"
      }
    },
    "dataProcessRegion" : {

@@ -95,8 +95,8 @@ pipeline = [
     },{
         "$out": { 
             "s3": {
-            "bucket": "adl-demo-sydney",
-            "region": "ap-southeast-2",
+            "bucket": "<bucket-name>",
+            "region": "<region-name>",
             "filename": { 
                 "$concat": [ "output/2021/", "$_id" ] 
                 },
