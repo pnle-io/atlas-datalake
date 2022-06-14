@@ -1,0 +1,13 @@
+
+{
+	"year": "2021",
+	"vendor_id" : "vendor_1",
+	"total_fare_amount" : "8.5",	
+	"total_passenger_count" : "1",
+	"total_amount" : "12.3",
+	"total_trip_distance" : "2.30",
+	"avg_fare_amount" : "8.5",	
+	"avg_passenger_count" : "1",
+	"avg_amount" : "12.3",
+	"avg_trip_distance" : "2.30"
+}

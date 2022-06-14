@@ -1,0 +1,23 @@
+
+{
+	"DOLocationID" : "226",
+	"PULocationID" : "141",
+	"RatecodeID" : "1",
+	"VendorID" : "1",
+	"congestion_surcharge" : "2.5",
+	"extra" : "3",
+	"fare_amount" : "8.5",
+	"improvement_surcharge" : "0.3",
+	"mta_tax" : "0.5",
+	"passenger_count" : "1",
+	"payment_type" : "2",
+	"store_and_fwd_flag" : "N",
+	"tip_amount" : "0",
+	"tolls_amount" : "0",
+	"total_amount" : "12.3",
+	"tpep_dropoff_datetime" : "2021-02-01 00:48:28",
+	"tpep_pickup_datetime" : "2021-02-01 00:40:47",
+	"trip_distance" : "2.30",
+	"year" : "2021",
+	"month" : "02"
+}
